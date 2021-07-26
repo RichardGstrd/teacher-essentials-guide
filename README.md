@@ -1,4 +1,4 @@
-# FOR ESSENTIALS
+# ESSENTIALS' TEACHER GUIDE
 
 - [Plus d'outils](#plus-d-outils)
      - [Tableau](#tableau)
